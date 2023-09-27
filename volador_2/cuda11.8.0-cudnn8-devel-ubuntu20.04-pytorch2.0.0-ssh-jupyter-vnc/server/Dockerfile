@@ -1,0 +1,3 @@
+FROM cb857f91ab9d6ec91248ec1f8b6deae2e7e4d8339fff3bf71fbbda5a701b681d
+
+ENTRYPOINT /run.sh
